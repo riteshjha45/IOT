@@ -1,4 +1,4 @@
-//SciCraft
+//IOT
 #include "esp_camera.h"
 #include <WiFi.h>
 #include <WiFiClientSecure.h>
